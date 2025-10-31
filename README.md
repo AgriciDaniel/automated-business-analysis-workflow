@@ -8,7 +8,7 @@ It's built for agencies, freelancers, and consultants who need to streamline cli
 
 Submit one URL, and this workflow scrapes the site, uses AI to analyze the content, and generates a professional business analysis report in Google Doc and PDF format, delivered straight to your inbox.
 
-![Business Analysis Workflow]("Business Analysis Workflow Image.png")
+![Business Analysis Workflow](Business%20Analysis%20Workflow%20Image.png)
 
 ### Example Report Output
 
