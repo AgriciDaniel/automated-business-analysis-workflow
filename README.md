@@ -8,6 +8,10 @@ It's built for agencies, freelancers, and consultants who need to streamline cli
 
 Submit one URL, and this workflow scrapes the site, uses AI to analyze the content, and generates a professional business analysis report in Google Doc and PDF format, delivered straight to your inbox.
 
+![Workflow Form Input](form.png)
+![Business Analysis Workflow]("Business Analysis Workflow Image.png")
+![Business Analysis Report Example]("Business Analysis Report Example Image.png")
+
 ### Example Report Output
 
 Here is a look at the type of report this workflow generates (based on the iFilters example):
