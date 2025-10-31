@@ -8,13 +8,13 @@ It's built for agencies, freelancers, and consultants who need to streamline cli
 
 Submit one URL, and this workflow scrapes the site, uses AI to analyze the content, and generates a professional business analysis report in Google Doc and PDF format, delivered straight to your inbox.
 
-![Workflow Form Input](form.png)
 ![Business Analysis Workflow]("Business Analysis Workflow Image.png")
-![Business Analysis Report Example]("Business Analysis Report Example Image.png")
 
 ### Example Report Output
 
-Here is a look at the type of report this workflow generates (based on the iFilters example):
+👉 **View an Example Report Here:** [Google Drive Link](https://drive.google.com/file/d/15-iuzKnn9PE0leAb3P_ehWr49avHDQ6Y/)
+
+Here is a look at the type of data this workflow generates:
 
 * **Business Overview:** Generates a full company description.
 * **Target Audience Personas:** Defines the demographic and psychographic profiles of ideal customers.
@@ -46,7 +46,6 @@ This workflow is built on n8n and connects several key services:
 * The Google Doc report template (which you can get from the link below).
 
 ### 🎁 Get the Pro Workflow
-
 Want the full system, including all the **DataForSEO keyword and competitor analysis**?
 
 👉 **Get the PRO Workflow Here:** [https://www.skool.com/ai-marketing-hub-pro](https://www.skool.com/ai-marketing-hub-pro)
