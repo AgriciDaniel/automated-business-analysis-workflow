@@ -44,3 +44,4 @@ This workflow is built on n8n and connects several key services:
     * Google Gemini
 * Google (GCP) credentials set up for Google Docs, Drive, and Gmail.
 * The Google Doc report template (which you can get from the link below).
+* https://docs.google.com/document/d/1grgYd2Pyr_THq4FJ83PibO_1vXzbEHiQPVqaTdCOvuk/edit?usp=sharing
