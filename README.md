@@ -1,4 +1,4 @@
-# Automated Business Analysis Report Workflow (Free Version)
+# Automated Business Analysis n8n Workflow (Free Version)
 
 Full Video Walkthrough: [Youtube Video](https://www.youtube.com/watch?v=jbSetpWXsx4&)
 
