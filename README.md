@@ -44,8 +44,3 @@ This workflow is built on n8n and connects several key services:
     * Google Gemini
 * Google (GCP) credentials set up for Google Docs, Drive, and Gmail.
 * The Google Doc report template (which you can get from the link below).
-
-### 🎁 Get the Pro Workflow
-Want the full system, including all the **DataForSEO keyword and competitor analysis**?
-
-👉 **Get the PRO Workflow Here:** [https://www.skool.com/ai-marketing-hub-pro](https://www.skool.com/ai-marketing-hub-pro)
