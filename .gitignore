@@ -1,0 +1,16 @@
+# Environment and credentials
+.env
+.env.*
+*.key
+*.pem
+*.local
+
+# n8n local data
+.n8n/
+
+# Dependencies
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db

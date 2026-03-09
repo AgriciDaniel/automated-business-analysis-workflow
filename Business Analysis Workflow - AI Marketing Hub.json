@@ -351,7 +351,7 @@
       ],
       "id": "450235a2-4696-4ce0-bff4-231115c20a01",
       "name": "Submit Form",
-      "webhookId": "1d39b99a-a22d-40b9-9862-a0423f631110"
+      "webhookId": "YOUR-WEBHOOK-ID-HERE"
     },
     {
       "parameters": {
@@ -1512,7 +1512,7 @@
       ],
       "id": "f34e1c4e-ec63-43d6-b783-db8e1cb90430",
       "name": "Send email",
-      "webhookId": "2a7c6bad-e500-45e6-9f47-255094a1f7ab",
+      "webhookId": "YOUR-WEBHOOK-ID-HERE",
       "credentials": {
         "gmailOAuth2": {
           "id": "aangs07AC0IQryBR",
