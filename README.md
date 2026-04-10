@@ -45,3 +45,14 @@ This workflow is built on n8n and connects several key services:
 * Google (GCP) credentials set up for Google Docs, Drive, and Gmail.
 * The Google Doc report template (which you can get from the link below).
 * https://docs.google.com/document/d/1grgYd2Pyr_THq4FJ83PibO_1vXzbEHiQPVqaTdCOvuk/edit?usp=sharing
+
+---
+
+## Author
+
+Built by [Agrici Daniel](https://agricidaniel.com/about) - AI Workflow Architect.
+
+- [Blog](https://agricidaniel.com/blog) - Deep dives on AI marketing automation
+- [AI Marketing Hub](https://www.skool.com/ai-marketing-hub) - Free community, 2,800+ members
+- [YouTube](https://www.youtube.com/@AgriciDaniel) - Tutorials and demos
+- [All open-source tools](https://github.com/AgriciDaniel)
